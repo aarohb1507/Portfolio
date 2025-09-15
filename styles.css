@@ -1,0 +1,4 @@
+/* styles.css — optional overrides */
+/* Keep minimal; Tailwind is loaded via CDN. Add any small custom styles here. */
+
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
